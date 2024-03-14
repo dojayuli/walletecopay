@@ -1,0 +1,40 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    hikari:
+      maximum-pool-size: 1
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        show-sql: false
+    hibernate:
+      ddl-auto: create
+  output:
+    ansi:
+      enabled: always
+
+springdoc:
+  swagger-ui:
+    enabled: true
+  api-docs:
+    enabled: true
+    swagger-ui:
+      path: /swagger-ui.html
+
+email:
+  host: smtp.gmail.com
+  port: 587
+  username: nocountryc1529@gmail.com
+  password: yogbzwcgpgvgxrce
+  properties:
+    mail:
+      smtp:
+        starttls:
+          enable: true

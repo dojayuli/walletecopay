@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password",
+      "name": "John",
+      "lastname": "Deere",
+      "birth": "25/05/2000",
+      "phone": "1225-444588",
+      "country": "Argentina",
+      "residence": "Argentina",
+      "docNumber": "123456789"
+    },
+    {
+      "id": "2",
+      "name": "Fran",
+      "email": "user@example2.com",
+      "password": "password2",
+      "lastname": "Perez",
+      "birth": "05/12/1995",
+      "phone": "1225-999999",
+      "country": "Brazil",
+      "residence": "Colombia",
+      "docNumber": "99887755"
+    },
+    {
+      "id": "d4d4",
+      "name": "Jorge",
+      "email": "user@example3.com",
+      "password": "password3",
+      "birth": "2024-02-14",
+      "phone": "+542995249409",
+      "country": "Argentina",
+      "residence": "Argentina",
+      "docNumber": "12312312312"
+    },
+    {
+      "id": "c40c",
+      "email": "admin@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "41e7",
+      "email": "admin@admin333.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "dbca",
+      "name": "Jorge Nahuel pepe",
+      "lastname": "Beja Rosa",
+      "birth": "2024-02-14",
+      "phone": "+542995249409",
+      "country": "Argentina",
+      "residence": "Argentina",
+      "docNumber": "12312312312"
+    },
+    {
+      "id": "cecb",
+      "email": "admin@admin333.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "9e56",
+      "name": "Jorge",
+      "lastname": "Beja Rosa",
+      "birth": "2024-02-05",
+      "phone": "+542995249409",
+      "country": "Argentina",
+      "residence": "Argentina",
+      "docNumber": "12312312312"
+    },
+    {
+      "id": "b66d",
+      "email": "admin@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "11a8",
+      "email": "admin22@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "bd69",
+      "email": "admin22@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "5405",
+      "email": "admin@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "411d",
+      "email": "admin@admin333.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "7b89",
+      "email": "admin@admin333.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "7d16",
+      "email": "pepe@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "83bc",
+      "email": "pepe@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "74b8",
+      "email": "pepe@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "7b5f",
+      "email": "pep333e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "7398",
+      "email": "pep333e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "c32c",
+      "email": "pep333e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "d066",
+      "email": "pep333e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "2902",
+      "email": "pep33223e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "db72",
+      "email": "pep33223e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "1e53",
+      "email": "pep33223e@gmail.com",
+      "password": "123456AAdd$$"
+    },
+    {
+      "id": "b434",
+      "email": "admin22@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "7caa",
+      "email": "admin22@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "baa8",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "c955",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "f253",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "6824",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "856b",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "b1df",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "07ed",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "af98",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "e553",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "fa5e",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "702f",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "18bc",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "70e4",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "94ab",
+      "email": "admin1122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "dc75",
+      "email": "admin11122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "1002",
+      "email": "admin11122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "df4a",
+      "email": "admin11122@admin.com",
+      "password": "123456AA3$$a"
+    },
+    {
+      "id": "e3e1",
+      "email": "admin11122@admin.com",
+      "password": "123456AA3$$a"
+    }
+  ]
+}
